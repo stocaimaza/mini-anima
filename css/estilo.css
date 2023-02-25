@@ -1,0 +1,38 @@
+
+/*HEADER*/
+
+.logo {
+    width: 150px;
+}
+
+.colorFondo {
+    background-color: #E1F2FE;
+}
+
+.btnPropio {
+    background-color: #B2B1CF;
+}
+
+.btnPropio:hover {
+    background-color:#77625C ;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+/* .btnHambur span {
+    background-image: url("../img/lineas.webp");
+} */
+
+/* CARROUSEL */
+
+.imgCarousel {
+    height: 400px;
+    width: 100%;
+    object-fit:cover;
+}
+
+.textoCarousel {
+    color: black;
+}
